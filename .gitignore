@@ -1,0 +1,8 @@
+sklearn-env/
+src/__pycache__/
+*.pyc
+*.synctex.gz
+*.log
+*.aux
+*.bbl
+*.blg
